@@ -7,7 +7,7 @@ Contact Keeper is an Android application that allows users to manage their conta
 
  You can download the latest version by clicking the button below.
 
-<a href="https://github.com/GeniusApk/Contact-Keeper/releases/download/1.1/app-debug.apk" download>
+<a href="https://github.com/ArbabShaikh99/Contact-App" download>
   <img src="https://img.shields.io/badge/download-latest-blue" alt="Download">
 </a>
 
