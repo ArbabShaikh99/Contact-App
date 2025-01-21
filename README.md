@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/85f9af5f-c1a5-461d-89e3-5665d92ced35" alt="Home Page" width="300">
+      <img src="https://github.com/user-attachments/assets/75143f56-e4af-49dc-b2c1-e451e4abbdc8" alt="Home Page" width="300">
     </td>
     <td></td>
     <td>
