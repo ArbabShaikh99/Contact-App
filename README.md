@@ -1,5 +1,27 @@
 # Contact Keeper App
 
+<table>
+  <tr>
+    <th>All Contacts</th>
+    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
+    <th>Add Contact Screen</th>
+    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
+   
+  
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/85f9af5f-c1a5-461d-89e3-5665d92ced35" alt="Home Page" width="300">
+    </td>
+    <td></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/bd3d3a17-2700-4b66-9743-820049f418a5" alt="User Profile" width="300">
+    </td>
+
+    </td>
+  </tr>
+</table>
+
 Contact Keeper is an Android application that allows users to manage their contacts efficiently. It supports adding, editing, and deleting contacts, as well as assigning a profile photo to each contact. The app is built using MVVM architecture with Dependency Injection and Room database. It utilizes Material3 for a modern and cohesive UI design.
 
 
