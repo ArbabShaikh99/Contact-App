@@ -16,7 +16,7 @@
       <img src="https://github.com/user-attachments/assets/bd3d3a17-2700-4b66-9743-820049f418a5" alt="User Profile" width="350">
     </td>
 
-    </td>
+  
   </tr>
 </table>
 
